@@ -7,7 +7,7 @@ The motivation behind this project was to increase the accessibility of the webs
 
 ## Credits
 
-Start Code Creator: Xandromus
+Starter Code Creator: Xandromus
 
 GitHub Profile: https://github.com/Xandromus
 
